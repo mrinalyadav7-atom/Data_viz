@@ -78,5 +78,6 @@ Make facts relatable using a representative.
 
 
 
+![control_chart](https://user-images.githubusercontent.com/64258638/115946913-fd590a80-a4e1-11eb-838a-ebbb13a46275.png)
 
 
