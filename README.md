@@ -74,6 +74,7 @@ Make facts relatable using a representative.
 
 
 
+![outliers_ss_1](https://user-images.githubusercontent.com/64258638/115945396-3e98ec80-a4d9-11eb-9f8d-29ea0883b97a.png)
 
 
 
