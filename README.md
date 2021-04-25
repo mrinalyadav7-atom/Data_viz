@@ -90,6 +90,7 @@ Make facts relatable using a representative.
 
 
 
+![customer_scatter](https://user-images.githubusercontent.com/64258638/116002064-760cb380-a615-11eb-8eb1-08ba107e68e1.png)
 
 
 
