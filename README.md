@@ -1,6 +1,7 @@
 # Tableau
 
 Data Visualization
+
 Data Visualization is the use of visual representation to explore,make sense of and communicate data.
 
 Business Intelligence
