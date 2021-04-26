@@ -95,6 +95,7 @@ Make facts relatable using a representative.
 
 
 
+![Shipping Details](https://user-images.githubusercontent.com/64258638/116060775-cb8da280-a69f-11eb-908c-3f44ae427f4d.png)
 
 
 
